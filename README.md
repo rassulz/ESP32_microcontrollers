@@ -4,11 +4,11 @@ This repository is my collection of **ESP32-based projects** and reusable experi
 
 ---
 
-## 🎥 Demo (video proof)
+## 🎥 Demo — ESP32 Projects (ITFest 2024)
 
-Click the image to watch the demo (YouTube Shorts):
+Click on the image below to watch the demo recorded during ITFest 2024:
 
-[![ESP32 Demo](https://img.youtube.com/vi/pqqcQrwwBhY/0.jpg)](https://youtube.com/shorts/pqqcQrwwBhY)
+[![ESP32 Demo](https://img.youtube.com/vi/HK_XoP7gYFU/0.jpg)](https://youtube.com/shorts/HK_XoP7gYFU)
 
 ---
 
